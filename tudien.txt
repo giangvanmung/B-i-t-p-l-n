@@ -1,0 +1,7 @@
+english         tieng anh   
+hi		chao
+hello      	xin chao
+name        	ten
+age      	tuoi
+love    	yeu
+friend  	ban
